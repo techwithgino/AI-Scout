@@ -232,7 +232,7 @@
 
                 <div class="item-info">
                     Onsite - HAMK<br>
-                    HAMK - DPF
+                    HAMK - DFP
                 </div>
 
                 <div class="arrow">
