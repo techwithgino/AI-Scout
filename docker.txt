@@ -1,2 +1,6 @@
+Launch docker
+
+Open terminal in VS Code - Powershell and run the command below.
+
 docker compose up -d
 docker ps
